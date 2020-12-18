@@ -1,0 +1,19 @@
+{
+  "name": "multiple-data-sources",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eri707/multiple-data-sources.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eri707/multiple-data-sources/issues"
+  },
+  "homepage": "https://github.com/eri707/multiple-data-sources#readme"
+}

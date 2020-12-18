@@ -1,0 +1,72 @@
+[
+    {
+        "productId": 1,
+        "productName": "Mazda",
+        "category": "crossover",
+        "price": 300,
+        "discount": 0
+    },
+    {
+        "productId": 2,
+        "productName": "Mazda",
+        "category": "crossover",
+        "price": 499,
+        "discount": 0
+    },
+    {
+        "productId": 3,
+        "productName": "Mazda",
+        "category": "sedan",
+        "price": 300,
+        "discount": 0.3
+    },
+    {
+        "productId": 4,
+        "productName": "Toyota",
+        "category": "crossover",
+        "price": null,
+        "discount": 0
+    },
+    {
+        "productId": 5,
+        "productName": "Toyota",
+        "category": "sedan",
+        "price": 615,
+        "discount": 0.1
+    },
+    {
+        "productId": 6,
+        "productName": "Toyota",
+        "category": "truck",
+        "price": 950,
+        "discount": 0
+    },
+    {
+        "productId": 7,
+        "productName": "Honda",
+        "category": "sedan",
+        "price": 1000,
+        "discount": 0.2
+    },
+    {
+        "productId": 8,
+        "productName": "Honda",
+        "category": "crossover",
+        "price": 350,
+        "discount": 0
+    },
+    {
+        "productId": 9,
+        "productName": "Nissan",
+        "category": "crossover",
+        "price": null,
+        "discount": 0
+    },
+    {
+        "productId": 10,
+        "productName": "Nissan",
+        "category": "hatchback",
+        "price": 445,
+        "discount": 0
+    }
+]

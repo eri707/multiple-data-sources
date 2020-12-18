@@ -1,0 +1,52 @@
+[
+    {
+        "productId": 1,
+        "productName": "Mazda",
+        "category": "crossover"
+    },
+    {
+        "productId": 2,
+        "productName": "Mazda",
+        "category": "crossover"
+    },
+    {
+        "productId": 3,
+        "productName": "Mazda",
+        "category": "sedan"
+    },
+    {
+        "productId": 4,
+        "productName": "Toyota",
+        "category": "crossover"
+    },
+    {
+        "productId": 5,
+        "productName": "Toyota",
+        "category": "sedan"
+    },
+    {
+        "productId": 6,
+        "productName": "Toyota",
+        "category": "truck"
+    },
+    {
+        "productId": 7,
+        "productName": "Honda",
+        "category": "sedan"
+    },
+    {
+        "productId": 8,
+        "productName": "Honda",
+        "category": "crossover"
+    },
+    {
+        "productId": 9,
+        "productName": "Nissan",
+        "category": "crossover"
+    },
+    {
+        "productId": 10,
+        "productName": "Nissan",
+        "category": "hatchback"
+    }
+]
